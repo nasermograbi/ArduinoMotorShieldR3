@@ -7,7 +7,7 @@ setSpeeds	KEYWORD2
 setM1Brake	KEYWORD2
 setM2Brake	KEYWORD2
 releaseM1Brake	    KEYWORD2
-releaseM1Brake	    KEYWORD2
+releaseM2Brake	    KEYWORD2
 setBrakes	KEYWORD2
 getM1CurrentMilliamps	KEYWORD2
 getM2CurrentMilliamps	KEYWORD2
