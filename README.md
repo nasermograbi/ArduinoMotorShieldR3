@@ -1,2 +1,2 @@
 # ArduinoMotorShieldR3
-ArduinoMotorShieldR3 with added stop function
+ArduinoMotorShieldR3 with added release break function
