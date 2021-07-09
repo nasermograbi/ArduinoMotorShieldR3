@@ -101,12 +101,13 @@ void ArduinoMotorShieldR3::setM2Brake()
   digitalWrite(BRK_B,HIGH);
 }
 
+// Release break 1
 void ArduinoMotorShieldR3::releaseM1Brake()
 {
   digitalWrite(BRK_A,LOW);
 }
 
-// Brake motor 2
+// Release break 2
 void ArduinoMotorShieldR3::releaseM2Brake()
 {
   digitalWrite(BRK_B,LOW);
